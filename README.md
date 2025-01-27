@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @fromahuman:_> i_think
-- 👀 I’m interested in ... Cinematography/Videography/Editing, the merge of 2minpapers and arduino colliding into physical AI.
-- 🌱 I’m currently getting ... a shit load of downloads.
-- 💞️ I’m looking to collaborate on ... video editing projects that incorporate experimentation with ai scenes or effects.
+- 👋 Hi, I’m @fromahuman:_> 
+- 👀 I’m interested in ... tech and witnessing the merge of 2-minute papers and Arduino into physical ai
+- 🌱 I’m currently getting ... a shit load of information downloads
+- 💞️ I’m looking to collaborate on ... video editing projects that incorporate experimentation with ai
 - 📫 How to reach me ... on x.com @_fromahuman_
 - ⚡ Fun fact: ... physical ai is uppon us.
 
