@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @fromahuman:_> 
 - 👀 I’m interested in ... creating moving pictures using tech
 - 🌱 I’m currently ... exploring ai as a tool for creating and as a tool for computer interaction and management.
-- 📫 How to reach me ... on x.com "@_fromahuman_"
+- 📫 How to reach me ... on x.com
 - ⚡ Fun fact: ... physical ai is uppon us.
 
 <!---
