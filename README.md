@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @fromahuman:_> 
-- 👀 I’m interested in ... tech and witnessing the merge of 2-minute papers and Arduino into physical ai
-- 🌱 I’m currently getting ... a shit load of information downloads
-- 💞️ I’m looking to collaborate on ... video editing projects that incorporate experimentation with ai
+- 👀 I’m interested in ... creating moving pictures using tech
+- 🌱 I’m currently ... exploring ai as a tool for creating and as a tool for computer interaction and management.
 - 📫 How to reach me ... on x.com @_fromahuman_
 - ⚡ Fun fact: ... physical ai is uppon us.
 
